@@ -39,4 +39,6 @@
       * 안되면 취업
     * 공부
       * 갈 길이 멀다..
+      
+![마인드맵](https://github.com/overnew/gaza/blob/master/%EC%9D%B4%EB%8F%99%EC%A7%84%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.jpg?raw=true)
      
